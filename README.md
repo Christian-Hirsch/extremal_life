@@ -6,7 +6,7 @@ When analyzing persistent homology, practitioners often look for features living
 
 
 <p align="center">
-<img src="sca.png" /></a>
+<img src="sda.png" /></a>
 </p>
 
 
